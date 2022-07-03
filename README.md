@@ -1,7 +1,9 @@
 This project was created with [Create React Native App](https://github.com/expo/create-react-native-app).
 
-<img src="images/baf14c3794d5578b0ec4.jpg" width="200" height="400">
-<img src="images/0058f7982f7aec24b56b.jpg" width="200" height="400">
+<div>
+  <img src="images/baf14c3794d5578b0ec4.jpg" width="200" height="400" loading="lazy" style="display: inline-block">
+  <img src="images/0058f7982f7aec24b56b.jpg" width="200" height="400" loading="lazy" style="display: inline-block">
+</div>
 
 # How to run
 
